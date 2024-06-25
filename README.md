@@ -15,7 +15,7 @@
 
 ##### My contacts
 <p align="center">
-  <a href="joao.tecmeca@gmail.com?subject=Hello" target="_blank">
+  <a href="mailto:joao.tecmeca@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-pereira-7450071b8/" target="_blank">
