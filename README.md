@@ -15,7 +15,7 @@
 
 ##### My contacts
 <p align="center">
-  <a href="mailto:joao.tecmeca@gmail.com?subject=Oportunidade%20de%20Parceira%20Profissional&body=Olá%20João,gostei%20do%20seu%20perfil.Gostaria%20de%20falar%20com%20você%20sobre..." target="_blank">
+  <a href="mailto:joao.tecmeca@gmail.com?subject=Oportunidade%20de%20Parceria%20Profissional&body=Olá%20João,gostei%20do%20seu%20perfil.Gostaria%20de%20falar%20com%20você%20sobre..." target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-carlos-pereira-7450071b8/" target="_blank">
