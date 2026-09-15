@@ -6,6 +6,10 @@
   />
 </p>
 <p align="center">
+  <a href="https://portfolio-psi-nine-owivwh6xx5.vercel.app">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-1A1B27?style=for-the-badge&logo=vercel&logoColor=7AA2F7" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/joao-carlosp">
     <img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" />
   </a>
@@ -139,6 +143,8 @@
   <strong>Curioso por natureza. Desenvolvedor por escolha.</strong>
 </p>
 <p align="center">
+  <a href="https://portfolio-psi-nine-owivwh6xx5.vercel.app">Portfólio</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/joao-carlosp">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="mailto:joaocarlosjoe74@gmail.com">E-mail</a>
